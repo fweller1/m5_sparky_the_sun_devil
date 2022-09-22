@@ -11,7 +11,7 @@ body {
     padding: 0%;
 }
 header, footer, div{
-    width: 1000%;
+    width: 1000px;
     margin-top, margin-bottom: none;
     margin-left, margin-right: auto;
     text-align: center;
